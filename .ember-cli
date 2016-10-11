@@ -1,7 +1,3 @@
-// <<<<<<<<<<<<< if you ever need to change your part to something else
-(do to the port already being in use, or you don't have permissions for
-some odd reason), then you just just define the exact port you want to
-use in this file >>>>>>>>>>>>>>>
 {
   "port": 9000,
   "disableAnalytics": false
