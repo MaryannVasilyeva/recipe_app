@@ -1,9 +1,8 @@
+// <<<<<<<<<<<<< if you ever need to change your part to something else
+(do to the port already being in use, or you don't have permissions for
+some odd reason), then you just just define the exact port you want to
+use in this file >>>>>>>>>>>>>>>
 {
-  /**
-    Ember CLI sends analytics information by default. The data is completely
-    anonymous, but there are times when you might want to disable this behavior.
-
-    Setting `disableAnalytics` to true will prevent any data from being sent.
-  */
+  "port": 9000,
   "disableAnalytics": false
 }
